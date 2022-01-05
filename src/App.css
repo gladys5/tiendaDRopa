@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  
+
+}
+
+
+.productos{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.producto{
+  width: 150px;
+ 
+  margin: 30px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+
+}
+.producto img{
+  width: 100%;
+}
